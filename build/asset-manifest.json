@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Matkasuunnitelma/static/js/main.f76c1f4d.chunk.js",
-    "main.js.map": "/Matkasuunnitelma/static/js/main.f76c1f4d.chunk.js.map",
-    "runtime-main.js": "/Matkasuunnitelma/static/js/runtime-main.e3221c59.js",
-    "runtime-main.js.map": "/Matkasuunnitelma/static/js/runtime-main.e3221c59.js.map",
-    "static/js/2.101deecc.chunk.js": "/Matkasuunnitelma/static/js/2.101deecc.chunk.js",
-    "static/js/2.101deecc.chunk.js.map": "/Matkasuunnitelma/static/js/2.101deecc.chunk.js.map",
-    "index.html": "/Matkasuunnitelma/index.html",
-    "static/js/2.101deecc.chunk.js.LICENSE.txt": "/Matkasuunnitelma/static/js/2.101deecc.chunk.js.LICENSE.txt",
-    "static/media/beach.78c7e244.jpg": "/Matkasuunnitelma/static/media/beach.78c7e244.jpg"
+    "main.js": "./static/js/main.c8f4dc76.chunk.js",
+    "main.js.map": "./static/js/main.c8f4dc76.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0cf1c28e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0cf1c28e.js.map",
+    "static/js/2.101deecc.chunk.js": "./static/js/2.101deecc.chunk.js",
+    "static/js/2.101deecc.chunk.js.map": "./static/js/2.101deecc.chunk.js.map",
+    "index.html": "./index.html",
+    "static/js/2.101deecc.chunk.js.LICENSE.txt": "./static/js/2.101deecc.chunk.js.LICENSE.txt",
+    "static/media/beach.78c7e244.jpg": "./static/media/beach.78c7e244.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3221c59.js",
+    "static/js/runtime-main.0cf1c28e.js",
     "static/js/2.101deecc.chunk.js",
-    "static/js/main.f76c1f4d.chunk.js"
+    "static/js/main.c8f4dc76.chunk.js"
   ]
 }
